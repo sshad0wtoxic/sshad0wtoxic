@@ -12,7 +12,7 @@
 * Diseño de interfaces (UI) y experiencia de usuario (UX)
 * Sistemas de la Información.
 * Bases de datos.
-* Tecnologías aplicadas a la tecnología.
+* Enseñanza aplicadas a la tecnología.
 
 ## FORMACIÓN ACADÉMICA
 * Licenciatura en **Ingeniería en Sistemas y Tecnologías de la Información.**
